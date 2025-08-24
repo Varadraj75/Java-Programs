@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=function
+comment1.params=length\ breadth
+comment1.target=int\ xyz(int,\ int)
+comment2.params=length\ breadth\ less
+comment2.target=double\ xyz(double,\ double,\ double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
