@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=employee
+comment1.params=fMonthlypay
+comment1.target=void\ setMonthlyPay(float)
+comment2.params=
+comment2.target=float\ getMonthlypay()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=float\ getYearlyPay()
+numComments=6

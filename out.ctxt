@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=out
+comment0.text=class\ out\ extends\ SalesPerson\r\n{\r\n\ \ \ \ public\ static\ void\ main(String\ args[])\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ SalesPerson\ bharat\ \=\ new\ SalesPerson();\r\n\ \ \ \ \ \ \ \ bharat.setName("Bharat");\r\n\ \ \ \ \ \ \ \ bharat.setMonthlyPay(12000.0f);\r\n\ \ \ \ \ \ \ \ bharat.setBonus(25000.0f);\r\n\ \ \ \ \ \ \ \ System.out.println(bharat.getYearlyPay());\r\n\ \ \ \ }\r\n}
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
